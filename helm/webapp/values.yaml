@@ -8,7 +8,7 @@ image:
   repository: battlemage/web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: 01537f6e15880fd068a54b8f6730b3eca7558a67
+  tag: 943e870cc96c1a68e4ee40d04458ae64ee1ffd4a
 
 imagePullSecrets: []
 nameOverride: ""
